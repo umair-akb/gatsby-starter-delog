@@ -1,5 +1,5 @@
 stackbitVersion: ~0.3.0
 ssgName: gatsby
 cmsName: netlifycms
-nodeVersion: '10'
+nodeVersion: 16
 publishDir: public
