@@ -9,7 +9,7 @@ metaDescription: |-
   What is the Best Way to Make Money on Runescape?
   —
   How to Make Money Fast in Runescape with Planks
-thumbnail: /assets/a27d24_90a08028e7de40d894e31f13cbc0b6c2_mv2.webp
+thumbnail: /assets/plank maker pro.png
 ---
 Down the track, I will be making an *Ironman Construction Guide*, as well as a mobile calculator similar to my Agility one. Once they are out, the cards will show up on the screen for you to go to them.
 
