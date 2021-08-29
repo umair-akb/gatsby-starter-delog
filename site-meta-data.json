@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "OSRS Plug",
+  "siteUrl": "https://peaceful-johnson-19b970.netlify.app/",
+  "description": "OSRS Plug: OpenOSRS Auto Plugins",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "OSRS Plug",
+    "description": "We make extraordinary external plugins for the OpenOSRS client. We've got a focus on Ironman / HCIM based Openosrs Plugins (these are plugins you won't find in the Runelite client! Check out my inventory and if you like something please join me on Discord to inquire!"
   }
 }
