@@ -3,13 +3,6 @@ This simple website built with GatsbyJS and Netlify CMS.
 
 ---
 
-Install this starter locally: (assuming you already have [NodeJS and GatsbyJS installed](https://www.gatsbyjs.org/tutorial/part-zero/))
-```bash
-gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delog
-```
-
-Instructions also available at W3Layouts [Delog Launch Article](https://w3layouts.com/articles/delog-gatsby-starter-netlify-cms/).
-
 ## Features
 - Built with GatsbyJS and Netlify CMS
 - Option to Add, Edit, Update and Delete posts via Netlify CMS
@@ -61,13 +54,6 @@ Change `trackingId` in `gatsby-config.js` at `gatsby-plugin-google-analytics` pl
 ---
 
 I hope you will build a great website with Delog. If you like it please spread the word, Feel free to contribute and raise a pull request :)
-
-For issues,feedback on enhancement or sharing your new awesome website built with delog. [Create New Issue](https://github.com/W3Layouts/gatsby-starter-delog/issues/new) Here
-
----
-
-## Roadmap
-We are maintaining future task in [Github Project](https://github.com/W3Layouts/gatsby-starter-delog/projects/1), even though most changes are instantaious. We try keep them posted here.
 
 ---
 
