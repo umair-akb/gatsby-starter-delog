@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://cutt.ly/HyTech">NoCAP</a></p>
+        <p>&copy; {new Date().getFullYear()} Hydra Technologies &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://cutt.ly/HyTech">NoCAP</a></p>
       </footer>
     </div>
   )
